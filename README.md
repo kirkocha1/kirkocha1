@@ -1,16 +1,13 @@
-## Hi there 👋
+## kirill kochnev
 
-<!--
-**kirkocha1/kirkocha1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Member of Technical Staff in Cohere.
 
-Here are some ideas to get you started:
+Currently building:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://atonce.one/favicon.svg" width="22" alt="Atonce"/> Atonce — ai assisted design builder
+
+💰 [MoneySheets](https://moneysheets.io/en) — personal finance in Google Sheets
+
+Previously
+
+🛵 [1520](https://www.wsj.com/business/entrepreneurship/online-grocers-race-to-offer-new-yorkers-faster-deliveries-11619267263), 15-min grocery delivery
