@@ -4,7 +4,7 @@ Member of Technical Staff in Cohere.
 
 Currently building:
 
-<img src="https://atonce.one/favicon.svg" width="22" alt="Atonce"/> Atonce — ai assisted design builder
+<img src="https://atonce.one/favicon.svg" width="22" alt="Atonce"/> [Atonce](https://www.atonce.one) — ai assisted design builder
 
 💰 [MoneySheets](https://moneysheets.io/en) — personal finance in Google Sheets
 
